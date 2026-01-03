@@ -6,7 +6,13 @@
 
   ## Running the code
 
-  Run `npm i` to install the dependencies.
+  Download the code in .zip format and extract it to your desired folder.
+
+  Copy the folder 'path' where package.json exists.
+
+  Open command prompt and run `cd [path you copied]`
+  
+  Run `npm install` to install the dependencies.
 
   Run `npm run dev` to start the development server.
   
