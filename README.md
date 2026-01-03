@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
   # TB Risk Detection Web App
 
@@ -16,6 +15,4 @@
 
   Run `npm run dev` to start the development server.
   
-=======
 # TB-DETECTION
->>>>>>> fa8492602d80ba86ae7a7e5fa74f40ab012bca71
